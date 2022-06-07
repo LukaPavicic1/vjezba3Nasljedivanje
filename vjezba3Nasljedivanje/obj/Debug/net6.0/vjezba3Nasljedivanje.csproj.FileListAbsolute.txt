@@ -1,0 +1,15 @@
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\bin\Debug\net6.0\vjezba3Nasljedivanje.exe
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\bin\Debug\net6.0\vjezba3Nasljedivanje.deps.json
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\bin\Debug\net6.0\vjezba3Nasljedivanje.runtimeconfig.json
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\bin\Debug\net6.0\vjezba3Nasljedivanje.dll
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\bin\Debug\net6.0\vjezba3Nasljedivanje.pdb
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\vjezba3Nasljedivanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\vjezba3Nasljedivanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\vjezba3Nasljedivanje.AssemblyInfoInputs.cache
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\vjezba3Nasljedivanje.AssemblyInfo.cs
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\vjezba3Nasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\vjezba3Nasljedivanje.dll
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\refint\vjezba3Nasljedivanje.dll
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\vjezba3Nasljedivanje.pdb
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\vjezba3Nasljedivanje.genruntimeconfig.cache
+C:\Users\ucenik\source\repos\vjezba3Nasljedivanje\obj\Debug\net6.0\ref\vjezba3Nasljedivanje.dll
